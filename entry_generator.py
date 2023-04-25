@@ -18,6 +18,7 @@ for lab in labs:
                 "subject":"{lab}",
                 "bug_id":"{problem_id}",
                 "source_file": "{bug_id}",
+                "reference_file": "{correct_file}",
                 "line_numbers": [],
                 "failing_test": "1",
                 "passing_test": "",
@@ -28,7 +29,6 @@ for lab in labs:
                 "exploit_file_list": [{inputs}],
                 "test_timeout": 5,
                 "bug_type": ""
-
             }},
             """.format(
                 id=id,
@@ -36,9 +36,10 @@ for lab in labs:
                 name=name,
                 problem_id=problem_id,
                 bug_id=bug_id,
+                correct_file=name+"_correct.c",
                 inputs=",".join(
-                    f'"{x}"'
-                    for x in os.listdir(os.path.join(lab, "test"))
+                    f'"test/{x}"'
+                    for x in os.listdir(os.path.join("base", "test"))
                     if problem_id in x and "in" in x
                 ),
             )
