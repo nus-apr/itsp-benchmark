@@ -1,4 +1,5 @@
 import os
+import shutil
 
 labs = [x for x in os.listdir() if not os.path.isfile(x) and "Lab" in x]
 
@@ -12,11 +13,18 @@ for lab in labs:
         ]:
             id = id + 1
             name = bug_id.split("_")[0]
+
+            dst = os.path.join(lab,"{}-{}".format(problem_id,name))
+            os.makedirs(dst,exist_ok=True)
+            shutil.copy(os.path.join(lab,problem_id,"{}_buggy.c".format(name)),dst)
+            shutil.copy(os.path.join(lab,problem_id,"{}_correct.c".format(name)),dst)
+            shutil.copy(os.path.join(lab,problem_id,"Main.c"),dst)
+
             data = """
             {{
                 "id":{id},
                 "subject":"{lab}",
-                "bug_id":"{problem_id}",
+                "bug_id":"{problem_id}-{name}",
                 "source_file": "{bug_id}",
                 "reference_file": "{correct_file}",
                 "line_numbers": [],
