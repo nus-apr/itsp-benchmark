@@ -48,7 +48,7 @@ for lab in labs:
                 "language": "c",
                 "config_script": "config_subject",
                 "build_script": "build_subject",
-                "test_script": "run_test",
+                "test_script": "run_test"
             }},
             """.format(
                 id=id,
