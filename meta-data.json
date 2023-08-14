@@ -24,7 +24,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -53,7 +52,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -82,7 +80,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -115,7 +112,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -148,7 +144,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -181,7 +176,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -214,7 +208,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -247,7 +240,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -288,7 +280,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -329,7 +320,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -370,7 +360,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -411,7 +400,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -452,7 +440,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -493,7 +480,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -534,7 +520,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -575,7 +560,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -616,7 +600,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -657,7 +640,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -696,7 +678,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -735,7 +716,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -774,7 +754,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -813,7 +792,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -852,7 +830,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -891,7 +868,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -930,7 +906,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -969,7 +944,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1008,7 +982,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1041,7 +1014,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1074,7 +1046,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1107,7 +1078,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1140,7 +1110,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1173,7 +1142,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1206,7 +1174,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1239,7 +1206,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1272,7 +1238,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1303,7 +1268,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1334,7 +1298,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1375,7 +1338,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1416,7 +1378,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1457,7 +1418,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1498,7 +1458,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1539,7 +1498,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1580,7 +1538,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1621,7 +1578,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1662,7 +1618,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1703,7 +1658,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1744,7 +1698,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1785,7 +1738,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1826,7 +1778,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1867,7 +1818,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1908,7 +1858,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1949,7 +1898,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -1990,7 +1938,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2025,7 +1972,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2060,7 +2006,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2095,7 +2040,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2130,7 +2074,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2165,7 +2108,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2200,7 +2142,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2235,7 +2176,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2270,7 +2210,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2305,7 +2244,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2340,7 +2278,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2375,7 +2312,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2410,7 +2346,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2443,7 +2378,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2476,7 +2410,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2509,7 +2442,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2542,7 +2474,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2575,7 +2506,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2608,7 +2538,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2641,7 +2570,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2674,7 +2602,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2707,7 +2634,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2740,7 +2666,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2773,7 +2698,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2806,7 +2730,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2839,7 +2762,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2872,7 +2794,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2909,7 +2830,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2946,7 +2866,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -2983,7 +2902,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3020,7 +2938,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3057,7 +2974,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3094,7 +3010,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3127,7 +3042,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3166,7 +3080,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3205,7 +3118,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3244,7 +3156,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3283,7 +3194,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3322,7 +3232,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3361,7 +3270,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3400,7 +3308,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3439,7 +3346,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3478,7 +3384,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3517,7 +3422,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3556,7 +3460,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3593,7 +3496,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3630,7 +3532,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3667,7 +3568,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3704,7 +3604,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3741,7 +3640,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3778,7 +3676,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3815,7 +3712,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3852,7 +3748,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3889,7 +3784,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3926,7 +3820,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -3963,7 +3856,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4004,7 +3896,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4045,7 +3936,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4086,7 +3976,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4127,7 +4016,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4168,7 +4056,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4209,7 +4096,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4250,7 +4136,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4291,7 +4176,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4332,7 +4216,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4373,7 +4256,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4414,7 +4296,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4455,7 +4336,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4492,7 +4372,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4529,7 +4408,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4566,7 +4444,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4603,7 +4480,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4640,7 +4516,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4677,7 +4552,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4714,7 +4588,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4751,7 +4624,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4788,7 +4660,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4825,7 +4696,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4862,7 +4732,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4899,7 +4768,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4936,7 +4804,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -4973,7 +4840,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5010,7 +4876,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5047,7 +4912,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5084,7 +4948,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5121,7 +4984,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5158,7 +5020,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5195,7 +5056,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5232,7 +5092,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5269,7 +5128,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5306,7 +5164,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5343,7 +5200,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5380,7 +5236,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5417,7 +5272,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5454,7 +5308,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5491,7 +5344,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5528,7 +5380,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5565,7 +5416,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5602,7 +5452,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5639,7 +5488,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5676,7 +5524,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5713,7 +5560,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5750,7 +5596,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5787,7 +5632,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5824,7 +5668,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5861,7 +5704,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5896,7 +5738,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5931,7 +5772,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -5966,7 +5806,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6001,7 +5840,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6036,7 +5874,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6071,7 +5908,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6106,7 +5942,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6147,7 +5982,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6182,7 +6016,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6217,7 +6050,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6248,7 +6080,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6279,7 +6110,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6310,7 +6140,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6341,7 +6170,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6372,7 +6200,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6403,7 +6230,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6434,7 +6260,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6465,7 +6290,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6496,7 +6320,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6527,7 +6350,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6558,7 +6380,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6589,7 +6410,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6620,7 +6440,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6651,7 +6470,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6682,7 +6500,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6713,7 +6530,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6748,7 +6564,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6783,7 +6598,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6818,7 +6632,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6853,7 +6666,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6888,7 +6700,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6923,7 +6734,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6958,7 +6768,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -6993,7 +6802,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7028,7 +6836,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7063,7 +6870,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7098,7 +6904,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7135,7 +6940,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7172,7 +6976,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7209,7 +7012,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7246,7 +7048,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7283,7 +7084,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7320,7 +7120,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7357,7 +7156,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7394,7 +7192,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7431,7 +7228,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7468,7 +7264,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7505,7 +7300,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7542,7 +7336,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7579,7 +7372,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7616,7 +7408,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7653,7 +7444,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7690,7 +7480,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7727,7 +7516,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7764,7 +7552,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7801,7 +7588,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7836,7 +7622,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7871,7 +7656,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7906,7 +7690,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7941,7 +7724,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -7976,7 +7758,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8011,7 +7792,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8046,7 +7826,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8081,7 +7860,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8116,7 +7894,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8151,7 +7928,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8186,7 +7962,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8221,7 +7996,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8256,7 +8030,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8291,7 +8064,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8326,7 +8098,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8361,7 +8132,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8396,7 +8166,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8435,7 +8204,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8474,7 +8242,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8513,7 +8280,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8552,7 +8318,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8591,7 +8356,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8630,7 +8394,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8669,7 +8432,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8708,7 +8470,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8747,7 +8508,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8786,7 +8546,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8825,7 +8584,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8864,7 +8622,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8903,7 +8660,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8942,7 +8698,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -8979,7 +8734,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9016,7 +8770,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9053,7 +8806,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9090,7 +8842,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9127,7 +8878,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9164,7 +8914,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9201,7 +8950,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9238,7 +8986,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9275,7 +9022,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9312,7 +9058,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9349,7 +9094,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9386,7 +9130,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9423,7 +9166,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9460,7 +9202,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9497,7 +9238,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9534,7 +9274,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9571,7 +9310,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9608,7 +9346,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9645,7 +9382,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9682,7 +9418,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9719,7 +9454,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9756,7 +9490,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9797,7 +9530,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9838,7 +9570,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9879,7 +9610,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9920,7 +9650,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -9961,7 +9690,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10002,7 +9730,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10043,7 +9770,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10084,7 +9810,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10125,7 +9850,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10166,7 +9890,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10207,7 +9930,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10248,7 +9970,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10289,7 +10010,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10326,7 +10046,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10363,7 +10082,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10400,7 +10118,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10437,7 +10154,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10474,7 +10190,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10511,7 +10226,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10548,7 +10262,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10585,7 +10298,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10622,7 +10334,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10659,7 +10370,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10696,7 +10406,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10733,7 +10442,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10770,7 +10478,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10807,7 +10514,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10840,7 +10546,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10873,7 +10578,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10906,7 +10610,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10939,7 +10642,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -10972,7 +10674,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11005,7 +10706,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11038,7 +10738,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11071,7 +10770,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11104,7 +10802,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11137,7 +10834,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11170,7 +10866,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11203,7 +10898,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11236,7 +10930,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11269,7 +10962,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11302,7 +10994,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11335,7 +11026,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11368,7 +11058,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11401,7 +11090,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11434,7 +11122,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11471,7 +11158,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11508,7 +11194,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11545,7 +11230,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11582,7 +11266,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11619,7 +11302,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11656,7 +11338,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11693,7 +11374,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11730,7 +11410,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11767,7 +11446,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11804,7 +11482,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11841,7 +11518,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11878,7 +11554,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11915,7 +11590,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11952,7 +11626,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -11989,7 +11662,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12026,7 +11698,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12063,7 +11734,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12098,7 +11768,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12133,7 +11802,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12168,7 +11836,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12203,7 +11870,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12238,7 +11904,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12273,7 +11938,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12308,7 +11972,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12343,7 +12006,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12378,7 +12040,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12413,7 +12074,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12448,7 +12108,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12483,7 +12142,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12518,7 +12176,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12553,7 +12210,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12588,7 +12244,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12623,7 +12278,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12658,7 +12312,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12693,7 +12346,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12726,7 +12378,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12759,7 +12410,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12792,7 +12442,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12825,7 +12474,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12858,7 +12506,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12891,7 +12538,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12924,7 +12570,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12957,7 +12602,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -12990,7 +12634,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13023,7 +12666,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13056,7 +12698,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13089,7 +12730,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13122,7 +12762,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13155,7 +12794,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13188,7 +12826,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13221,7 +12858,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13254,7 +12890,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13287,7 +12922,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13320,7 +12954,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13353,7 +12986,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13386,7 +13018,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13419,7 +13050,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13452,7 +13082,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13485,7 +13114,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13526,7 +13154,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13567,7 +13194,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13608,7 +13234,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13649,7 +13274,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13690,7 +13314,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13731,7 +13354,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13772,7 +13394,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13813,7 +13434,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13854,7 +13474,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13895,7 +13514,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13936,7 +13554,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -13971,7 +13588,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14006,7 +13622,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14041,7 +13656,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14076,7 +13690,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14111,7 +13724,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14146,7 +13758,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14181,7 +13792,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14216,7 +13826,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14251,7 +13860,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14286,7 +13894,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14321,7 +13928,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14356,7 +13962,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14391,7 +13996,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14426,7 +14030,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14461,7 +14064,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14496,7 +14098,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14531,7 +14132,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14566,7 +14166,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14601,7 +14200,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14636,7 +14234,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14673,7 +14270,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14710,7 +14306,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14747,7 +14342,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14784,7 +14378,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14821,7 +14414,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14858,7 +14450,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14895,7 +14486,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14932,7 +14522,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -14969,7 +14558,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15006,7 +14594,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15043,7 +14630,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15080,7 +14666,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15117,7 +14702,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15154,7 +14738,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15191,7 +14774,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15228,7 +14810,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15265,7 +14846,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15302,7 +14882,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15339,7 +14918,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15376,7 +14954,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15413,7 +14990,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15450,7 +15026,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15487,7 +15062,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15524,7 +15098,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15561,7 +15134,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15598,7 +15170,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15635,7 +15206,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15672,7 +15242,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15709,7 +15278,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15746,7 +15314,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15783,7 +15350,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15820,7 +15386,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15857,7 +15422,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15894,7 +15458,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15931,7 +15494,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -15968,7 +15530,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16005,7 +15566,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16042,7 +15602,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16079,7 +15638,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16116,7 +15674,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16149,7 +15706,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16182,7 +15738,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16215,7 +15770,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16248,7 +15802,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16281,7 +15834,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16314,7 +15866,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16347,7 +15898,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16380,7 +15930,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16413,7 +15962,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16446,7 +15994,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16479,7 +16026,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16512,7 +16058,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16545,7 +16090,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16578,7 +16122,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16611,7 +16154,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16642,7 +16184,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16673,7 +16214,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16704,7 +16244,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16735,7 +16274,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16766,7 +16304,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16797,7 +16334,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16828,7 +16364,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16861,7 +16396,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16894,7 +16428,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16927,7 +16460,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16960,7 +16492,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -16993,7 +16524,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17026,7 +16556,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17059,7 +16588,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17092,7 +16620,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17125,7 +16652,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17158,7 +16684,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17191,7 +16716,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17224,7 +16748,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17257,7 +16780,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17290,7 +16812,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17323,7 +16844,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17356,7 +16876,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17389,7 +16908,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17422,7 +16940,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17455,7 +16972,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17488,7 +17004,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17521,7 +17036,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17554,7 +17068,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17587,7 +17100,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17620,7 +17132,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17653,7 +17164,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17686,7 +17196,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17719,7 +17228,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17752,7 +17260,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17785,7 +17292,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17818,7 +17324,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17851,7 +17356,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17884,7 +17388,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17917,7 +17420,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17950,7 +17452,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -17983,7 +17484,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18016,7 +17516,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18053,7 +17552,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18090,7 +17588,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18127,7 +17624,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18164,7 +17660,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18201,7 +17696,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18238,7 +17732,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18275,7 +17768,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18312,7 +17804,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18353,7 +17844,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18394,7 +17884,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18435,7 +17924,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18476,7 +17964,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18517,7 +18004,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18558,7 +18044,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18599,7 +18084,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18640,7 +18124,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18681,7 +18164,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18722,7 +18204,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18763,7 +18244,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18804,7 +18284,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18845,7 +18324,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18886,7 +18364,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18927,7 +18404,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -18968,7 +18444,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19009,7 +18484,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19050,7 +18524,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19091,7 +18564,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19132,7 +18604,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19171,7 +18642,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19210,7 +18680,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19249,7 +18718,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19288,7 +18756,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19327,7 +18794,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19366,7 +18832,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19405,7 +18870,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19444,7 +18908,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19483,7 +18946,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19522,7 +18984,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19561,7 +19022,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19602,7 +19062,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19643,7 +19102,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19684,7 +19142,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19725,7 +19182,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19766,7 +19222,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19807,7 +19262,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19848,7 +19302,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19889,7 +19342,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19930,7 +19382,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -19971,7 +19422,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20012,7 +19462,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20053,7 +19502,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20094,7 +19542,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20135,7 +19582,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20176,7 +19622,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20215,7 +19660,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20254,7 +19698,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20293,7 +19736,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20332,7 +19774,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20371,7 +19812,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20410,7 +19850,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20449,7 +19888,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20488,7 +19926,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20527,7 +19964,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20566,7 +20002,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20605,7 +20040,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20644,7 +20078,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20683,7 +20116,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20724,7 +20156,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20765,7 +20196,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20806,7 +20236,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20847,7 +20276,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20888,7 +20316,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20929,7 +20356,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -20970,7 +20396,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21011,7 +20436,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21052,7 +20476,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21093,7 +20516,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21134,7 +20556,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21175,7 +20596,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21214,7 +20634,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21253,7 +20672,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21292,7 +20710,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21331,7 +20748,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21370,7 +20786,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21403,7 +20818,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21436,7 +20850,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21469,7 +20882,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21502,7 +20914,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21535,7 +20946,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21568,7 +20978,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21601,7 +21010,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21634,7 +21042,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21667,7 +21074,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21700,7 +21106,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21733,7 +21138,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21770,7 +21174,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21801,7 +21204,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21832,7 +21234,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21863,7 +21264,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21894,7 +21294,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21925,7 +21324,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21956,7 +21354,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -21987,7 +21384,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22018,7 +21414,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22049,7 +21444,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22080,7 +21474,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22111,7 +21504,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22142,7 +21534,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22175,7 +21566,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22208,7 +21598,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22247,7 +21636,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22286,7 +21674,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22317,7 +21704,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22348,7 +21734,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22379,7 +21764,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22410,7 +21794,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22441,7 +21824,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22472,7 +21854,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22503,7 +21884,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22534,7 +21914,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22565,7 +21944,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22596,7 +21974,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22627,7 +22004,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22658,7 +22034,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22689,7 +22064,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22720,7 +22094,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22751,7 +22124,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22782,7 +22154,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22813,7 +22184,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22844,7 +22214,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22885,7 +22254,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22926,7 +22294,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -22967,7 +22334,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23008,7 +22374,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23049,7 +22414,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23090,7 +22454,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23131,7 +22494,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23172,7 +22534,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23213,7 +22574,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23254,7 +22614,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23291,7 +22650,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23328,7 +22686,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23365,7 +22722,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23402,7 +22758,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23439,7 +22794,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23476,7 +22830,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23513,7 +22866,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23548,7 +22900,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23583,7 +22934,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23618,7 +22968,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23653,7 +23002,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23690,7 +23038,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23727,7 +23074,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23760,7 +23106,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23793,7 +23138,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23826,7 +23170,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23859,7 +23202,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23892,7 +23234,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23925,7 +23266,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     },
@@ -23958,7 +23298,6 @@
         "test_timeout": 5,
         "bug_type": "Test Failure",
         "language": "c",
-        "config_script": "config_subject",
         "build_script": "build_subject",
         "test_script": "run_test"
     }
