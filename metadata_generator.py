@@ -26,6 +26,8 @@ for lab in labs:
             shutil.copy(os.path.join(lab,problem_id,"Main.c"),dst)
             shutil.copy("build_subject",dst)
             shutil.copy("run_test",dst)
+            shutil.copy("config_subject",dst)
+            
 
 
             data = """
