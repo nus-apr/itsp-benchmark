@@ -22,5 +22,5 @@ if [[ -n "${LDFLAGS}" ]]; then
   PROJECT_LDFLAGS="${PROJECT_LDFLAGS} ${LDFLAGS}"
 fi
 
-$CC ${PROJECT_CFLAGS} ${PROJECT_LDFLAGS} "${program_name}_buggy.c" -o "${program_name}"
+$CC ${PROJECT_CFLAGS} ${PROJECT_LDFLAGS} "${program_name}_buggy.c" -o "${program_name}" -lm
 echo "compiled"
